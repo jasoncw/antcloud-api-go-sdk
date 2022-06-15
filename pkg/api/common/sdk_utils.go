@@ -9,10 +9,10 @@
 package common
 
 import (
-    "antcloud-api-go-sdk/pkg/api/log"
     "bytes"
     "encoding/hex"
     "errors"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/log"
     uuid "github.com/satori/go.uuid"
     "strconv"
     "time"

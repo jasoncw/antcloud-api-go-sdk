@@ -9,7 +9,7 @@
 package response
 
 import (
-    "antcloud-api-go-sdk/pkg/api/product"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/product"
 )
 
 //

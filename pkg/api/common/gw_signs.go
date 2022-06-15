@@ -9,11 +9,11 @@
 package common
 
 import (
-    "antcloud-api-go-sdk/pkg/api/common/constants"
     "crypto/hmac"
     "crypto/sha1"
     "crypto/sha256"
     "encoding/base64"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/common/constants"
     "hash"
     "net/url"
     "regexp"

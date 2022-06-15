@@ -8,12 +8,17 @@
 
 package response
 
+import "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/product"
+
+//
+//
+//
 type QuerySolutionFilenotaryResponse struct {
+    product.DefAntCloudProdResponse
     FileContentHash string `json:"file_content_hash"`
     QrCodeUrl       string `json:"qr_code_url"`
     Url             string `json:"url"`
 }
-
 
 //
 //

@@ -9,9 +9,9 @@
 package common
 
 import (
-    "antcloud-api-go-sdk/pkg/api/common/constants"
     "encoding/json"
     "errors"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/common/constants"
 )
 
 func GwJsons_ToString(obj interface{}) (string, error) {

@@ -9,9 +9,9 @@
 package api
 
 import (
-    "antcloud-api-go-sdk/pkg/api/acapi"
-    "antcloud-api-go-sdk/pkg/api/common/constants"
-    "antcloud-api-go-sdk/pkg/api/product"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/acapi"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/common/constants"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/product"
     "strings"
 )
 

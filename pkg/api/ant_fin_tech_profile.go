@@ -9,7 +9,7 @@
 package api
 
 import (
-    "antcloud-api-go-sdk/pkg/api/acapi"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/acapi"
 )
 
 //

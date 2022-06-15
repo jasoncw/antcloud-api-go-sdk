@@ -8,7 +8,7 @@
 
 package product
 
-import "antcloud-api-go-sdk/pkg/api/common"
+import "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/common"
 
 //
 //

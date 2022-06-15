@@ -9,11 +9,11 @@
 package common
 
 import (
-    "antcloud-api-go-sdk/pkg/api/acapi"
-    "antcloud-api-go-sdk/pkg/api/common/constants"
-    "antcloud-api-go-sdk/pkg/api/log"
     "encoding/json"
     "errors"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/acapi"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/common/constants"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/log"
     "net/http"
     "net/url"
     "strconv"

@@ -9,8 +9,8 @@
 package request
 
 import (
-    "antcloud-api-go-sdk/pkg/api/product"
-    "antcloud-api-go-sdk/pkg/appex/v1_0_0/response"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/product"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/appex/v1_0_0/response"
 )
 
 //

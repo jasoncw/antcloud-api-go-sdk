@@ -9,11 +9,11 @@
 package main
 
 import (
-    "antcloud-api-go-sdk/pkg/api"
-    "antcloud-api-go-sdk/pkg/api/common"
-    "antcloud-api-go-sdk/pkg/appex/v1_0_0/request"
-    "antcloud-api-go-sdk/pkg/appex/v1_0_0/response"
     "errors"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/common"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/appex/v1_0_0/request"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/appex/v1_0_0/response"
 )
 
 //

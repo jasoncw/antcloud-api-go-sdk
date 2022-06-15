@@ -9,9 +9,9 @@
 package product
 
 import (
-    "antcloud-api-go-sdk/pkg/api/common"
     "encoding/json"
     "errors"
+    "github.com/jasoncw/antcloud-api-go-sdk/pkg/api/common"
 )
 
 //
