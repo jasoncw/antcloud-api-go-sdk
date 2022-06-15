@@ -39,10 +39,6 @@ func main() {
     // 获取文件存证的状态
     // 此处轮询查询状态接口获得异步存证是否成功的结果
     // 实际代码中请自行处理轮询逻辑和超时逻辑
-    for i := 0; i < 100; i++ {
-
-
-    }
     filenotary, err = filenotarySampleService.DoGetSolutionFilenotaryStatusRequest(filenotary.FileNotaryId)
     if err != nil {
         panic(err.Error())
